@@ -35,6 +35,6 @@ A análise visa responder perguntas como:
 
 ## 💡 Contato e Conexão
 Gostou do projeto? Vamos conectar no LinkedIn!  
-🔗 [LinkedIn do Rafa](https://www.linkedin.com/in/seu-perfil/)  
+🔗 [LinkedIn](www.linkedin.com/in/rafael-rocha-datascience)  
 
 🚀 **Sugestões e feedbacks são bem-vindos!**
