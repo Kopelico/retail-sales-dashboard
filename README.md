@@ -82,4 +82,4 @@ Este projeto tem como objetivo analisar dados de vendas no varejo usando **Power
 
 ## 👤 Autor
 
-Desenvolvido por [**Rafael Santana da Rocha**](www.linkedin.com/in/rafaelrocha-analytics)
+Desenvolvido por [**Rafael Santana da Rocha**](https://www.linkedin.com/in/rafaelrocha-analytics/)
