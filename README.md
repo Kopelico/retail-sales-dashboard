@@ -29,7 +29,7 @@ Este projeto tem como objetivo analisar dados de vendas no varejo usando **Power
 
 ### 📌 Walmart Sales Dashboard
 
-![Dashboard Walmart](imagens/dashboard_walmart.png)
+![Dashboard Walmart](./imagens/dashboard_walmart.png)
 
 **Principais análises:**
 - **Tendência de Vendas Semanais:** Identifica oscilações sazonais e picos de venda.
@@ -41,7 +41,7 @@ Este projeto tem como objetivo analisar dados de vendas no varejo usando **Power
 
 ### 📌 Retail Sales Dashboard
 
-![Dashboard Retail](imagens/dashboard_retail.png)
+![Dashboard Retail](./imagens/dashboard_retail.png)
 
 **Principais análises:**
 - **Tendência de Compras ao Longo do Tempo:** Evolução das vendas ao longo de 2023.
@@ -53,7 +53,7 @@ Este projeto tem como objetivo analisar dados de vendas no varejo usando **Power
 
 ### 📌 Supermarket Sales Dashboard
 
-![Dashboard Supermarket](imagens/dashboard_supermarket.png)
+![Dashboard Supermarket](./imagens/dashboard_supermarket.png)
 
 **Principais análises:**
 - **Receita por Cidade ao Longo do Tempo:** Desempenho entre Mandalay, Naypyitaw e Yangon.
@@ -82,16 +82,4 @@ Este projeto tem como objetivo analisar dados de vendas no varejo usando **Power
 
 ## 👤 Autor
 
-Desenvolvido por [**Rafael Santana da Rocha**](https://github.com/Kopelico)
-
----
-
-## 🧠 Próximos Passos
-
-- Criar uma nova dashboard com **dados atualizados em tempo real**, conectando com APIs públicas.
-- Publicar os projetos no **LinkedIn** como parte do portfólio profissional.
-- Automatizar atualização de dados usando Power BI + Web Connectors ou Power Automate.
-
----
-
-📌 *Esse é o primeiro passo do meu portfólio de dados. Em breve, novas dashboards com dados reais, APIs e atualizações dinâmicas!*
+Desenvolvido por [**Rafael Santana da Rocha**](www.linkedin.com/in/rafaelrocha-analytics)
